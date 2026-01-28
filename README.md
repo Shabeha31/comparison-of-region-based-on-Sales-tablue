@@ -1,33 +1,28 @@
 
-# Tableau Projects ![icons8-tableau-software-48](https://github.com/swaapnaa/TABLEAU-PROJECTS/assets/149737403/5324eb1a-8bb8-405f-ae23-5988bcfdd675)
+# Tableau Project ![icons8-tableau-software-48](https://github.com/swaapnaa/TABLEAU-PROJECTS/assets/149737403/5324eb1a-8bb8-405f-ae23-5988bcfdd675)
 
-
-This repository contains Tableau dashboard, visualization, and data analysis projects I have created.
-
-## Analyzing Employee Trends
-
- [Analyzing Employee Trends.twbx](Analyzing Employee Trends Dashboard.png)
+## Comparison of Region Based on Sales
 
  ## Project Description
 
- This interactive Tableau dashboard was created to visualize and analyze HR data to derive insights into the employee base. The key goals were to:
- 
- - Provide analysis of employee distribution across business units and roles
- - Identify trends in demographics like age, gender, education level
- - Evaluate employee satisfaction and engagement metrics
- - Analyze factors related to employee attrition and turnover
- - Enable data-driven decision making around HR initiatives
+ This interactive Tableau dashboard was created to visualize the sales comparison between two selected regions. The key goals were to: 
+ - Compare sales performance between two selected regions using interactive visualizations
+ - Build a dynamic Tableau dashboard to support data-driven decision making
+ - Enable region-wise comparison through user-controlled parameters (Primary & Secondary Region)
+ - Analyze key business metrics
+ - Implement hierarchies to represent location-based data effectively
+ - Use calculated fields to derive meaningful insights from raw sales data
+ - Provide management with a clear, visual understanding of regional performance
 
-The dashboard brings together employee data from various HR systems into a unified view. It allows slicing and dicing the data by departments, demographics, job attributes and other dimensions.
+Key visualizations include:
 
-Some key visualizations include:
-
-- Headcount and demographics analysis
-- Employee spread by business unit, job function
-- Satisfaction scoring trends over time
-- Attrition rates by age, gender, job role
-- Compensation and performance analysis
-- HR KPIs and metrics
+- Side-by-side comparison of Primary Region and Secondary Region for easy performance analysis
+- Filled maps highlighting selected regions to provide geographic context for sales performance
+- KPI Summary Cards (First Order Date, Total Sales, Average Sales per Order, Number of Customers, Number of Orders, Number of Products Sold)
+- Tabular breakdown of sales by product sub-category for each region
+- Mini line charts showing sales trends over time for each sub-category
+- Enables quick identification of top- and low-performing product categories
+- Symmetrical dashboard layout to ensure consistent and intuitive region-to-region comparison
 
 ![Tableau Dashboard](https://github.com/swaapnaa/TABLEAU-PROJECTS/assets/149737403/f7622138-227d-488e-8fa0-576dba6c6372)
 
