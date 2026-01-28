@@ -1,11 +1,11 @@
 
 # Tableau Project ![icons8-tableau-software-48](https://github.com/swaapnaa/TABLEAU-PROJECTS/assets/149737403/5324eb1a-8bb8-405f-ae23-5988bcfdd675)
 
-## Comparison of Region Based on Sales
+## Sales Performance Dashboard (Tableau)
 
  ## Project Description
 
- This interactive Tableau dashboard was created to visualize the sales comparison between two selected regions. The key goals were to: 
+ This interactive Tableau dashboard was created to analysis and compare regional sales performance to support data-driven decisions. The key goals were to: 
  - Compare sales performance between two selected regions using interactive visualizations
  - Build a dynamic Tableau dashboard to support data-driven decision making
  - Enable region-wise comparison through user-controlled parameters (Primary & Secondary Region)
